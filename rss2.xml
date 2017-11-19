@@ -5,7 +5,7 @@
   <channel>
     <title>张江的博客</title>
     <link>http://cafelife.org/</link>
-    <atom:link href="/cafelife/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
     <pubDate>Fri, 17 Nov 2017 09:45:07 GMT</pubDate>
