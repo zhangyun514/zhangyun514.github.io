@@ -8,27 +8,19 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 17 Nov 2017 09:45:07 GMT</pubDate>
+    <pubDate>Sun, 19 Nov 2017 12:18:10 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>Hello World</title>
-      <link>http://cafelife.org/2017/11/17/hello-world/</link>
-      <guid>http://cafelife.org/2017/11/17/hello-world/</guid>
-      <pubDate>Fri, 17 Nov 2017 09:45:07 GMT</pubDate>
+      <title>测试</title>
+      <link>http://cafelife.org/2017/11/19/%E6%B5%8B%E8%AF%95/</link>
+      <guid>http://cafelife.org/2017/11/19/%E6%B5%8B%E8%AF%95/</guid>
+      <pubDate>Sun, 19 Nov 2017 12:18:10 GMT</pubDate>
       <description>
-      
-        
-        
-          
-          
-            &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-          
-        
       
       </description>
       
-      <comments>http://cafelife.org/2017/11/17/hello-world/#disqus_thread</comments>
+      <comments>http://cafelife.org/2017/11/19/%E6%B5%8B%E8%AF%95/#disqus_thread</comments>
     </item>
     
   </channel>
